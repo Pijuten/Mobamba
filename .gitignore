@@ -4,6 +4,7 @@
 ### UnrealEngine ###
 # Rider
 .idea/
+Plugins/
 
 ### UnrealEngine ###
 # Visual Studio 2015 user specific files
